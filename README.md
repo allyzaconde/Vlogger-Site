@@ -20,7 +20,7 @@ npm install
 3. Run the following command to use the program:
 ```
 (make sure to have a working mongoose server connected to 27017)
-npm start (in fastify folder)
+npm start (in current folder)
 npm start (in vlogger-site folder)
 ```
 4. Open the website on the browser with the address `127.0.0.1:3000/`
